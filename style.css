@@ -1,1 +1,58 @@
-<h1 style="color: aqua;">Miranda Andrea</h1>
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body { 
+    background-color:#577D86;
+    text-align: center;
+    cursor:progress;
+}
+div {
+    background-color:#87CBB9;
+    padding: 10px 20px 30px 40px;
+    border: 2px solid black;
+    margin: 20px 40px;
+}
+
+h3 {
+    color:#569DAA;
+}
+h1 {
+    font-size: 1em;
+}
+
+a:hover{
+    color:#B9EDDD;
+    text-decoration: dotted;
+    font-size: 1.5em;
+    border: 2px dotted black;
+}
+
+a:hover {
+    border-radius: 50px;
+    height:250px;
+}
+
+.main-container{
+    background-color:cadetblue;
+    width: 20vw;
+    height:20%;
+    overflow: hidden;
+}
+.main-Información{
+    background-color: #427D9D;
+    width: 20vw;
+    height:20%;
+}
+
+.links {
+    color:#427D9D;
+    text-decoration: none;
+}
+
+.red-link{
+    text-decoration: dotted;
+}
+
+#u-list {
+    list-style-type:square
+}
